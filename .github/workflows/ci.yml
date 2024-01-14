@@ -31,4 +31,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            ghcr.io/KaaKangSatir/ppsspp-adhoc:latest
+            ghcr.io/souler/ppsspp-adhoc:latest@sha256:9e01a5890ce054af64e8175263ad11d4597f87104e6c7ab35ea63f3fa5791eff
